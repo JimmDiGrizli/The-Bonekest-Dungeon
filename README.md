@@ -1,10 +1,10 @@
 # THE BONEKEST DUNGEON
 
-![ld48_banner.png](Images/ld48_banner.png)
-
 Boneky is a mighty undead mage, who is seeking more power in the deepest dungeon of the world. Trying to acquire it he has to make his way through the enchanted maze. But he must be vigilant because the ancient evil can bonk him from the shadows.
 
 [**Ludum Dare page**](https://ldjam.com/events/ludum-dare/48/the-bonkest-dungeon)
+
+![ld48_banner.png](Images/ld48_banner.png)
 
 ![ld48_character](Images/ld48_character.png)
 
