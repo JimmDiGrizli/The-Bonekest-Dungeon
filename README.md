@@ -33,7 +33,7 @@ You can use magic in order to find which room the monster is hiding in right now
 
 * [**Tricky Fat Cat**](https://twitter.com/tricky_fat_cat) — code, game design;
 
-* [**Alexander Getmansky**](https://twitter.com/AGetmansky) — code, game design;
+* [**Alexander Getmansky**](https://getskygames.itch.io/) — code, game design;
 
 * [**Ruslan Seferbekov**](https://twitter.com/Just_Ruslan4ik) — game design, level design, UI design;
 
